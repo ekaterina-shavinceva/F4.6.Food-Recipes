@@ -1,0 +1,12 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    text-align: center;
+    color: #ff6800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+
