@@ -16,7 +16,8 @@
 2. Установите зависимости pip install -r requirements.txt
 3. Запустите прокт python manage.py runserver
 4. Откройте второй терминал Local 2 и перейдите в дирректорию [recipes_client](recipes_client)
-5. Запустите проект через npm start
+5. Установите необходимые модули npm install
+6. Запустите проект через npm start
 
 ## О работе проекта
 Используется Django Rest Framework, автодокументацию OpenAPI+Swagger и react-router.
